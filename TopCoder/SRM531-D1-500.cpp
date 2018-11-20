@@ -3,11 +3,11 @@ lets treat Pinguos as nodes.
 first we should draw some graphs, and try to find the cases that don't go to infinity...
 the graph converges when we have one node dies and generate only one other node..
 so it seems like there is a solution (not inf) if all paths starting from node 1 ends at a simple cycle
-and those simple cycles should not have any outgoing edges which means and the out degree of each need in 
+and those simple cycles should not have any outgoing edges which means the out degree of each need in 
 those cycles is equal to 1.
 note:since each node should have outgoing edges then there exist cycles in the graph,which means the graph is not a tree.
 now we transform the graph into DAG by replacing cycles by nodes.
-we will use memoization to find number of nodes,starting from node,and the base case when we reach a cycle node we return 1.
+we will use memoization to find number of nodes,starting from node 1,and the base case when we reach a cycle node we return 1.
 */
 
 #include <bits/stdc++.h>
