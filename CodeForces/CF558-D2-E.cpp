@@ -1,9 +1,9 @@
 /*
-first if we of a brute force solution it will take O(Q.N.logN)(sorting in every query)
+first if we think of a brute force solution it will take O(Q.N.logN)(sorting in every query)
 so if we can get rid of N from complexity then we are done..
 if we think of every position individually then after sorting a segment every char will occupy
 subsegment of the result segment, then using counting sort we can know the boundary of subsegment 
-for each char...what last is how we can update a range by one value,it's easy to do it using segtree with lazy..
+for each char...what left is how we can update a range by one value,it's easy to do it using segtree with lazy..
 total complexity O(Q.logN.26) where 26 is size of alphabet
 */
 
