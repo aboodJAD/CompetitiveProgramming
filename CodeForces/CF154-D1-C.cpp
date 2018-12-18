@@ -1,5 +1,5 @@
 /*
-we need to compare two if vectors are equal or not;
+we need to compare if two vectors are equal or not;
 if node A has neighbours B,C,D
 node D has A,B,C
 then just compare the two vectors by adding A into it's adjacency vector and the same for D
