@@ -1,1 +1,12 @@
 1)CF-1247-D2-E cum sum over dp with a nice observation
+
+2)https://codeforces.com/problemset/problem/920/E 
+https://codeforces.com/contest/1243/problem/D
+given edges in reverse graph count number of components
+
+3)https://codeforces.com/contest/1257/problem/E
+sandard dp probelm, but the first observation is crucial and amazing
+
+4)https://codeforces.com/contest/1257/problem/D
+nice probelm for those who can solve C, just cum-max in reverse order
+
