@@ -6,7 +6,19 @@ given edges in reverse graph count number of components
 
 3)https://codeforces.com/contest/1257/problem/E
 sandard dp probelm, but the first observation is crucial and amazing
+also it can be solved using lis
+and another greedy solution
 
 4)https://codeforces.com/contest/1257/problem/D
 nice probelm for those who can solve C, just cum-max in reverse order
+
+5)https://codeforces.com/contest/1257/problem/F
+meet in the middle, done by dividing 30 bit solution into 15,15 subsets.
+
+6)https://codeforces.com/contest/1253/problem/C
+hard cum sum, and nice observation 
+
+7)https://codeforces.com/contest/1265/problem/E
+amazing ev problem.
+
 
